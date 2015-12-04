@@ -1,0 +1,2 @@
+defmodule Dango do
+end
